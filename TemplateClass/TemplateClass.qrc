@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/TemplateClass">
+        <file>res/mainico.png</file>
+        <file>res/ok.png</file>
+        <file>res/clear.png</file>
+        <file>res/copy.png</file>
+    </qresource>
+</RCC>
